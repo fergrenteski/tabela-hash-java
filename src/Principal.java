@@ -6,10 +6,6 @@ import estruturas.Lista;
 
 /**
  * Classe principal para testar e comparar as tabelas hash
- * 
- * TDE 03 - Resolução de Problemas Estruturados em Computação
- * Prof.ª Marina de Lara
- * 
  * Implementação de Tabelas Hash com Diferentes Funções Hash
  */
 public class Principal {
@@ -229,10 +225,6 @@ public class Principal {
     private static void imprimirCabecalho() {
         System.out.println("\n" + "=".repeat(70));
         System.out.println("  IMPLEMENTAÇÃO DE TABELAS HASH COM DIFERENTES FUNÇÕES HASH");
-        System.out.println("=".repeat(70));
-        System.out.println("  TDE 03 - Resolução de Problemas Estruturados em Computação");
-        System.out.println("  Prof.ª Marina de Lara");
-        System.out.println("  Pontifícia Universidade Católica do Paraná");
         System.out.println("=".repeat(70));
     }
     
